@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "sample",
+			"path": ".."
+		},
+		{
+			"path": "../../../../../Downloads/text"
+		}
+	],
+	"settings": {}
+}
